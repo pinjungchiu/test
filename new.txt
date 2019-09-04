@@ -1,2 +1,5 @@
 This is a new file.
-Add new attributes. 
+Add new attributes.
+A
+B
+C 
